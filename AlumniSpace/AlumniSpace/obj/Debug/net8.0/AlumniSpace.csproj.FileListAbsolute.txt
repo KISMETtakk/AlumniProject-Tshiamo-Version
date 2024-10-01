@@ -1,0 +1,281 @@
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\appsettings.Development.json
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\appsettings.json
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.exe
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.deps.json
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.runtimeconfig.json
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.pdb
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Azure.Core.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Azure.Identity.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Humanizer.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Web.Http.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.CodeDom.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.csproj.AssemblyReference.cache
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.AssemblyInfoInputs.cache
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.AssemblyInfo.cs
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.csproj.CoreCompileInputs.cache
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.MvcApplicationPartsAssemblyInfo.cs
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.MvcApplicationPartsAssemblyInfo.cache
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets.build.json
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets.development.json
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.AlumniSpace.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.build.AlumniSpace.props
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlumniSpace.props
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlumniSpace.props
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\scopedcss\bundle\AlumniSpace.styles.css
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSp.DED7838E.Up2Date
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\refint\AlumniSpace.dll
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.pdb
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.genruntimeconfig.cache
+C:\ICEP Projects\Project 3 Alumni Space Back End\Backend 1\AlumniSpace\AlumniSpace\obj\Debug\net8.0\ref\AlumniSpace.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\appsettings.Development.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\appsettings.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.exe
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.deps.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.runtimeconfig.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\AlumniSpace.pdb
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Azure.Core.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Azure.Identity.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Humanizer.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Web.Http.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.CodeDom.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Memory.Data.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.csproj.AssemblyReference.cache
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.GeneratedMSBuildEditorConfig.editorconfig
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.AssemblyInfoInputs.cache
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.AssemblyInfo.cs
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.csproj.CoreCompileInputs.cache
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.MvcApplicationPartsAssemblyInfo.cs
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.MvcApplicationPartsAssemblyInfo.cache
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.sourcelink.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets.build.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets.development.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.AlumniSpace.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.build.AlumniSpace.props
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AlumniSpace.props
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AlumniSpace.props
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\staticwebassets.pack.json
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\scopedcss\bundle\AlumniSpace.styles.css
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSp.DED7838E.Up2Date
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\refint\AlumniSpace.dll
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.pdb
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\AlumniSpace.genruntimeconfig.cache
+C:\ICEP Projects\Project 4 Tshiamo Repo\AlumniSpace\AlumniSpace\obj\Debug\net8.0\ref\AlumniSpace.dll
